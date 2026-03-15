@@ -144,12 +144,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 My GitHub Activity
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kuberalakshmi-24&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuberalakshmi-24&theme=tokyonight" width="100%"/>
 </div>
 
 ---
@@ -159,7 +157,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuberalakshmi-24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuberalakshmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuberalakshmi-k/)
 
 </div>
 
